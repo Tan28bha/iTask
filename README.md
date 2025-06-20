@@ -41,6 +41,6 @@ We welcome contributions from the community! To contribute to iTasks, follow the
 5. Open a pull request on the main repository.
 
 ## License
-This project is open source and available under the [MIT](https://github.com/alsiam/iTasks/blob/main/LICENSE) License. Feel free to use, modify, and share!
+This project is open source and available under the [MIT] License. Feel free to use, modify, and share!
 
 
